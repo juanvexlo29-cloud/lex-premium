@@ -1,9 +1,9 @@
 {
-  "name": "firma-legal-premium",
+  "name": "lex-premium",
   "private": true,
   "version": "0.1.0",
   "type": "module",
-  "homepage": "https://juanvexlo29-cloud.github.io/firma-legal-premium",
+  "homepage": "https://juanvexlo29-cloud.github.io/lex-premium",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
